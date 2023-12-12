@@ -6,8 +6,5 @@ Adding this code.
 Adding another code.
 Git Hub demos started.
 Adding this changes from GitHub.
-<<<<<<< HEAD
 Adding this line from local.
-=======
-This is login code for Git
->>>>>>> fdf4e3a29cce1409f750aec2336e38089cbca52c
+Good evening from local.
