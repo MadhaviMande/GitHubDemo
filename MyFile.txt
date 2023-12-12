@@ -15,3 +15,7 @@ public void login()
 {
     this method for login
 }
+public void logout()
+{
+   this is logout method
+}
